@@ -82,7 +82,7 @@ Currently working at **Shory** in Dubai, where I’ve designed platforms that pr
 
 ## 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/mohammadgufrankhan/)
-- ✉️ gufrankhan1988@gmail.com
+- ✉️ gufran1.4u@gmail.com
 - 📍 Dubai, UAE
 
 ---
