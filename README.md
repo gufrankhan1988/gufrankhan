@@ -87,10 +87,5 @@ Currently working at **Shory** in Dubai, where I’ve designed platforms that pr
 
 ---
 
-## 📸 Profile Picture Options
-![](https://github.com/yourusername.png) ← Use your techie headshot or cartoon avatar we created earlier.
-
----
-
 ### ⚡️ Fun Fact  
 If I do something manually twice, I automate it the third time 😎  
